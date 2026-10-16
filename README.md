@@ -1,2 +1,2 @@
 # nohitdoctest
-[here](Riz's Calamity Mod Nohit Rules and Restrictions (Preview).md)
+[here](/Riz's Calamity Mod Nohit Rules and Restrictions (Preview).md)
